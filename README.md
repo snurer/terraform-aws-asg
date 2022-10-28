@@ -1,2 +1,3 @@
-# terraform-aws-asg
-This is a repository to create Auto Scaling Group
+# AWS Auto Scaling Group with Terraform
+
+This repository includes versions of creating Auto Scaling Group with Terraform.
